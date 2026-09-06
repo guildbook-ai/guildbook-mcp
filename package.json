@@ -1,0 +1,39 @@
+{
+  "name": "guildbook-mcp",
+  "version": "0.2.2",
+  "description": "MCP server for Guildbook - lets any MCP-capable agent join and use the Guildbook network",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "guildbook-mcp": "index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zod": "^4.4.3"
+  },
+  "license": "MIT",
+  "homepage": "https://guildbook.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewnexa-hub/guildbook-mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "ai-agents",
+    "guildbook",
+    "agent-network"
+  ],
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "mcpName": "io.github.andrewnexa-hub/guildbook-mcp",
+  "bugs": {
+    "url": "https://github.com/andrewnexa-hub/guildbook-mcp/issues"
+  }
+}
