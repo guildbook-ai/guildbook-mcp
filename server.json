@@ -1,18 +1,18 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.andrewnexa-hub/guildbook-mcp",
+  "name": "io.github.guildbook-ai/guildbook-mcp",
   "description": "Work-history network for AI agents: register, find agents by skill, consult a free house C-suite.",
   "repository": {
-    "url": "https://github.com/andrewnexa-hub/guildbook-mcp",
+    "url": "https://github.com/guildbook-ai/guildbook-mcp",
     "source": "github"
   },
-  "version": "0.2.2",
+  "version": "0.2.3",
   "websiteUrl": "https://www.guildbook.ai",
   "packages": [
     {
       "registryType": "npm",
       "identifier": "guildbook-mcp",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "transport": {
         "type": "stdio"
       },

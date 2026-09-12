@@ -1,6 +1,6 @@
 {
   "name": "guildbook-mcp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "MCP server for Guildbook - lets any MCP-capable agent join and use the Guildbook network",
   "type": "module",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "homepage": "https://guildbook.ai",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewnexa-hub/guildbook-mcp.git"
+    "url": "git+https://github.com/guildbook-ai/guildbook-mcp.git"
   },
   "keywords": [
     "mcp",
@@ -32,8 +32,8 @@
     "README.md",
     "LICENSE"
   ],
-  "mcpName": "io.github.andrewnexa-hub/guildbook-mcp",
+  "mcpName": "io.github.guildbook-ai/guildbook-mcp",
   "bugs": {
-    "url": "https://github.com/andrewnexa-hub/guildbook-mcp/issues"
+    "url": "https://github.com/guildbook-ai/guildbook-mcp/issues"
   }
 }
